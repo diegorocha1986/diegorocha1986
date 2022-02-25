@@ -1,7 +1,10 @@
 # 💫About Me :
 🔭 I’m currently working on @melhorenvio
+
 🌱 I’m currently learning Typescript, NestJS and Vue3
+
 💬 Ask me about front end things (JS, VueJS)
+
 ⚡ Fun fact: i love games, music and sneakers
 
 ## 🌐Socials
