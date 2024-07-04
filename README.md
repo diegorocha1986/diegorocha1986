@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on @melhorenvio
+🔭 I’m currently working @melhorenvio
 
-🌱 I’m currently learning Typescript, NestJS and Vue3
+🌱 I’m currently learning Typescript, Nuxt and Vue3
 
 💬 Ask me about front end things (JS, VueJS)
 
